@@ -1,6 +1,7 @@
 in the first time i want to be fine
 
-" first step to be fine " 
+    " first step to be fine " 
+
 1. i will learn to make a my first web
 2. i looking for competition
 3. tidy up my cv
